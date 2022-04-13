@@ -9,3 +9,7 @@ Have a think about how you might write your program to make a player's answers l
 You can also add your own ASCII art. Just remember to add three single quotes ''' at the start and at the end of your artwork to turn it into a multi-line string.
 
 https://ascii.co.uk/art
+
+# Play Hangman
+
+https://hangmanwordgame.com/?fca=1&success=0#/
