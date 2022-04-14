@@ -1,0 +1,23 @@
+Parameter Vs Argument
+--------------------
+Parameters:
+
+A parameter is the variable defined within the parentheses during function definition. 
+Simply they are written when we declare a function.
+
+Arguments:
+An argument is a value that is passed to a function when it is called. It might be a variable, value or object passed to a function or method as input. 
+They are written when we are calling the function.
+
+Types of arguments in python:
+
+Python functions can contain two types of arguments:
+
+Positional Arguments
+Keyword Arguments
+Positional Arguments:
+
+Positional Arguments are needed to be included in proper order i.e the first argument is always listed first when the function is called, second argument needs to be called second and so on.
+
+Keyword Arguments:
+Keyword Arguments is an argument passed to a function or method which is preceded by a keyword and an equal to sign. The order of keyword argument with respect to another keyword argument does not matter because the values are being explicitly assigned.
