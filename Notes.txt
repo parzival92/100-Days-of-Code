@@ -21,3 +21,8 @@ Positional Arguments are needed to be included in proper order i.e the first arg
 
 Keyword Arguments:
 Keyword Arguments is an argument passed to a function or method which is preceded by a keyword and an equal to sign. The order of keyword argument with respect to another keyword argument does not matter because the values are being explicitly assigned.
+
+Python Docstrings
+---------------
+Declaring Docstrings: The docstrings are declared using ”’triple single quotes”’ or “””triple double quotes””” just below the class, method or function declaration. 
+All functions should have a docstring.
