@@ -26,3 +26,12 @@ Python Docstrings
 ---------------
 Declaring Docstrings: The docstrings are declared using ”’triple single quotes”’ or “””triple double quotes””” just below the class, method or function declaration. 
 All functions should have a docstring.
+
+Namespace Local Vs Global Scope
+---------------------------------
+The location where we can find a variable and also access it if required is called the scope of a variable.
+ 
+* Global and local variables
+    Global variables are the ones that are defined and declared outside any function and are not specified to any function. 
+    They can be used by any part of the program.
+

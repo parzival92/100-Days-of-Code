@@ -9,6 +9,8 @@ Have a think about how you might write your program to make a player's answers l
 You can also add your own ASCII art. Just remember to add three single quotes ''' at the start and at the end of your artwork to turn it into a multi-line string.
 
 https://ascii.co.uk/art
+Get your Own ASCII ART
+http://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20
 
 # Play Hangman
 
