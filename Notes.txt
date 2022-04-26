@@ -35,3 +35,13 @@ The location where we can find a variable and also access it if required is call
     Global variables are the ones that are defined and declared outside any function and are not specified to any function. 
     They can be used by any part of the program.
 
+Differences between Procedural and Object Oriented Programming
+--------------------------------------------------------------
+Procedural Programming:
+
+Procedural Programming can be defined as a programming model which is derived from structured programming, based upon the concept of calling procedure. 
+Procedures, also known as routines, subroutines or functions, simply consist of a series of computational steps to be carried out. During a program’s execution, any given procedure might be called at any point, including by other procedures or itself.
+
+Object Oriented Programming:
+Object oriented programming can be defined as a programming model which is based upon the concept of objects. Objects contain data in the form of attributes and code in the form of methods. In object oriented programming, computer programs are designed using the concept of objects that interact with real world. 
+Object oriented programming languages are various but the most popular ones are class-based, meaning that objects are instances of classes, which also determine their types.
