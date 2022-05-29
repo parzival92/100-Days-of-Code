@@ -1,0 +1,1 @@
+This file does not exist and it will get created as mode is write and it works only in write mode
