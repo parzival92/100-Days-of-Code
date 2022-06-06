@@ -23,3 +23,8 @@ https://pythontutor.com/
 # Find, install and publish Python packages with the Python Package Index
 
 https://pypi.org/
+
+# Color Palettes 
+
+https://colorhunt.co/
+
